@@ -6,3 +6,6 @@ The root directory contains `tests` subdirectory which contains the test files a
 
 ## Experience
 Hangman is a fun coding challenge because it can be solved in countless ways. I chose to solve the challenge through an `object-oriented programming` approach with a `test-driven development` `software development lifecycle`. I practiced the use of `imported libraries`, `input/output`, `if statements`, `f-strings`, `recursion`, `list data structures`, `list comprehension`, `classes`, `input sanitization`, `functional validation`, and `enumeration`.
+
+## Download and Run
+Download and unzip the files. Then run `main.py` from the root directory.
